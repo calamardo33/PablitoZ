@@ -6,6 +6,7 @@
 - <b>Power Query Code</b>
 - <b>Power Automate Projects</b>
   - [Extract Power Bi Data and store it as csv in sharepoint](https://github.com/calamardo33/Power-Automate-Extract-PBI-Data/tree/main)
+  - [Extract Power Bi Data and store it in an excel table](https://github.com/calamardo33/Power-Automate-Extract-PBI-Data_into_Excel/tree/main)
 - <b>VBA Code</b>
   - [Code compilation from my projects](https://github.com/calamardo33/VBA_code)
 
